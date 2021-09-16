@@ -1,0 +1,11 @@
+{
+  "name": "domorecode",
+  "version": "1.0.0",
+  "description": "doMoreCode Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Joseph Alba",
+  "license": "MIT"
+}
